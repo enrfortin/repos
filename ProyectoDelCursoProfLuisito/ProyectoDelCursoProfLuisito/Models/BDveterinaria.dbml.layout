@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.25, 14.375" name="BDveterinaria">
+  <DataContextMoniker Name="/BDveterinariaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="48201663-e858-4562-9baa-bae15fa9860a" absoluteBounds="9, 2.75, 2, 3.6939111328125">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Cita" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13345ecd-8a44-4051-a6bd-5f32b202cd37" absoluteBounds="9.015, 3.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d678ebe-4ce3-4b4b-bc72-52619e3f2470" absoluteBounds="11.75, 3.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/BDveterinariaDataContext/CitaMedicamento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a7ce1f9-8145-4068-89fe-1902a44746db" absoluteBounds="11.765, 3.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78a8a817-9695-4e23-a92f-323f27e8f0a6" absoluteBounds="6.25, 6.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/EstadoCita" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56ad3fdc-ffc1-4f2b-94fc-7f7d25251e99" absoluteBounds="6.265, 7.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51b7b146-2ba5-4bcf-b223-5757c4237ebc" absoluteBounds="3.75, 12.125, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BDveterinariaDataContext/HistorialCita" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a4c76a3-29f9-4b80-9ae8-d725c9230498" absoluteBounds="3.765, 12.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" absoluteBounds="6.25, 3.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Mascota" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2bf56dd-2d07-4958-a959-e243a4f0fc31" absoluteBounds="6.265, 3.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c095ebff-df1a-4b06-b440-40f2835ff0f9" absoluteBounds="9, 8.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Medicamento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3a5f79b-0b29-46b1-a749-0e44325d6667" absoluteBounds="9.015, 8.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b0b54da-46ca-4ad2-a3d2-c09e93326501" absoluteBounds="0.75, 9.625, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Pagina" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a0b2954-51b1-4021-997b-8cd560c23541" absoluteBounds="0.765, 10.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b5d500b8-1da8-4a91-b4c5-55e9a67097e1" absoluteBounds="3.5, 6.625, 2, 1.7708968098958318">
+      <DataClassMoniker Name="/BDveterinariaDataContext/PaginaTipoUsuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6c9087b-c018-4db8-8153-bb6edcc77cb7" absoluteBounds="3.515, 7.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8ebd780-b814-490e-9302-3085f4a7e6f4" absoluteBounds="0.75, 3.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Persona" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd7dc3a2-85de-410b-b7cd-417be0ec8efe" absoluteBounds="0.765, 3.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56ea5b9f-dee0-4996-b9c5-99f40b014666" absoluteBounds="6.25, 9.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Sede" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f15ccc55-9863-420d-a32d-25dfbd61c664" absoluteBounds="6.265, 9.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28771367-4d46-494c-a128-badbf99f510b" absoluteBounds="1.5, 0.875, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Sexo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec67ea80-ac64-4d4d-9db9-4088e0eb5cda" absoluteBounds="1.5150000000000001, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec39b1b9-08c8-4278-b531-67275f3f4ce0" absoluteBounds="3.5, 9.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/TipoMascota" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03a3b27e-7165-4edc-8c23-d7a5d7e51168" absoluteBounds="3.515, 10.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f366378-ea20-4c82-8b60-ea296b374bce" absoluteBounds="0.75, 6.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/TipoUsuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d90d360-aa2d-4fd3-8902-b8bb41439907" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5535b476-e283-4739-bf44-eff111a69e24" absoluteBounds="3.5, 3.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/BDveterinariaDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d37c9399-31b1-464d-a09c-9c92b2dea752" absoluteBounds="3.515, 3.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94a67577-c32e-45c8-9a3e-6d5bc856df29" absoluteBounds="12, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDveterinariaDataContext/UsuarioMascota" />
+      <nestedChildShapes>
+        <elementListCompartment Id="531f48bb-26c3-4158-b871-a38afc139da3" absoluteBounds="12.015, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11 : 4.48159912109375); (11.75 : 4.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Cita/Cita_CitaMedicamento" />
+      <nodes>
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+        <classShapeMoniker Id="6d678ebe-4ce3-4b4b-bc72-52619e3f2470" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 7.66429768880208); (8.54166666666667 : 7.66429768880208 : JumpStart); (8.70833333333333 : 7.66429768880208 : JumpEnd); (9.38541466666667 : 7.66429768880208 : JumpStart); (9.55208133333333 : 7.66429768880208 : JumpEnd); (10 : 7.66429768880208); (10 : 6.4439111328125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/EstadoCita/EstadoCita_Cita" />
+      <nodes>
+        <classShapeMoniker Id="78a8a817-9695-4e23-a92f-323f27e8f0a6" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.49120198567708); (9 : 4.49120198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Mascota/Mascota_Cita" />
+      <nodes>
+        <classShapeMoniker Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 9.48159912109375); (12.75 : 9.48159912109375); (12.75 : 5.4631982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Medicamento/Medicamento_CitaMedicamento" />
+      <nodes>
+        <classShapeMoniker Id="c095ebff-df1a-4b06-b440-40f2835ff0f9" />
+        <classShapeMoniker Id="6d678ebe-4ce3-4b4b-bc72-52619e3f2470" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.62636122831531); (3.125 : 9.25136122831531); (3.125 : 7.51044840494792); (3.5 : 7.51044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Pagina/Pagina_PaginaTipoUsuario" />
+      <nodes>
+        <classShapeMoniker Id="1b0b54da-46ca-4ad2-a3d2-c09e93326501" />
+        <classShapeMoniker Id="b5d500b8-1da8-4a91-b4c5-55e9a67097e1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 9.25); (8.625 : 8.875); (8.625 : 5.49880855924479); (9 : 5.49880855924479)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Sede/Sede_Cita" />
+      <nodes>
+        <classShapeMoniker Id="56ea5b9f-dee0-4996-b9c5-99f40b014666" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.5 : 1.56814697265625); (7.25 : 1.56814697265625); (7.25 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Sexo/Sexo_Mascota" />
+      <nodes>
+        <classShapeMoniker Id="28771367-4d46-494c-a128-badbf99f510b" />
+        <classShapeMoniker Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 2.2612939453125); (2.125 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Sexo/Sexo_Persona" />
+      <nodes>
+        <classShapeMoniker Id="28771367-4d46-494c-a128-badbf99f510b" />
+        <classShapeMoniker Id="e8ebd780-b814-490e-9302-3085f4a7e6f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.5392976888021); (6 : 10.5392976888021); (6 : 9); (8.41666666666667 : 9 : JumpStart); (8.58333333333333 : 9 : JumpEnd); (8.75 : 9); (8.75 : 8.25); (9.468748 : 8.25); (9.468748 : 6.4439111328125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/TipoMascota/TipoMascota_Cita" />
+      <nodes>
+        <classShapeMoniker Id="ec39b1b9-08c8-4278-b531-67275f3f4ce0" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.75); (5.875 : 9.375); (5.875 : 4.49120198567708); (6.25 : 4.49120198567708)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/TipoMascota/TipoMascota_Mascota" />
+      <nodes>
+        <classShapeMoniker Id="ec39b1b9-08c8-4278-b531-67275f3f4ce0" />
+        <classShapeMoniker Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.98202189127604); (3.04166666666667 : 7.98202189127604 : JumpStart); (3.20833333333333 : 7.98202189127604 : JumpEnd); (3.5 : 7.98202189127604)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/TipoUsuario/TipoUsuario_PaginaTipoUsuario" />
+      <nodes>
+        <classShapeMoniker Id="3f366378-ea20-4c82-8b60-ea296b374bce" />
+        <classShapeMoniker Id="b5d500b8-1da8-4a91-b4c5-55e9a67097e1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 5.4631982421875); (4.5 : 6.18190755208333); (5.79166666666667 : 6.18190755208333 : JumpStart); (5.95833333333333 : 6.18190755208333 : JumpEnd); (8.54166666666667 : 6.18190755208333 : JumpStart); (8.70833333333333 : 6.18190755208333 : JumpEnd); (9 : 6.18190755208333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Usuario/Usuario_Cita" />
+      <nodes>
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.0312525 : 5.4631982421875); (5.0312525 : 6.01965326171875); (5.79166666666667 : 6.01965326171875 : JumpStart); (5.95833333333333 : 6.01965326171875 : JumpEnd); (8.54166666666667 : 6.01965326171875 : JumpStart); (8.70833333333333 : 6.01965326171875 : JumpEnd); (9 : 6.01965326171875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Usuario/Usuario_Cita1" />
+      <nodes>
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+        <classShapeMoniker Id="48201663-e858-4562-9baa-bae15fa9860a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.93310099283854); (6.25 : 3.93310099283854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Usuario/Usuario_Mascota" />
+      <nodes>
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+        <classShapeMoniker Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.75121330413662); (3.125 : 6.37621330413662); (3.125 : 4.48159912109375); (3.5 : 4.48159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/TipoUsuario/TipoUsuario_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="3f366378-ea20-4c82-8b60-ea296b374bce" />
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.92829956054688); (3.5 : 3.92829956054688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Persona/Persona_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="e8ebd780-b814-490e-9302-3085f4a7e6f4" />
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.7812525 : 3.125); (7.7812525 : 1.15907348632813); (12 : 1.15907348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Mascota/Mascota_UsuarioMascota" />
+      <nodes>
+        <classShapeMoniker Id="fffb9fb6-8d60-47d3-97b1-1228841fd12d" />
+        <classShapeMoniker Id="94a67577-c32e-45c8-9a3e-6d5bc856df29" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.53125 : 3.5); (4.53125 : 1.97962367513021); (7.16666666666667 : 1.97962367513021 : JumpStart); (7.33333333333333 : 1.97962367513021 : JumpEnd); (7.69791916666667 : 1.97962367513021 : JumpStart); (7.86458583333333 : 1.97962367513021 : JumpEnd); (12 : 1.97962367513021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDveterinariaDataContext/Usuario/Usuario_UsuarioMascota" />
+      <nodes>
+        <classShapeMoniker Id="5535b476-e283-4739-bf44-eff111a69e24" />
+        <classShapeMoniker Id="94a67577-c32e-45c8-9a3e-6d5bc856df29" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

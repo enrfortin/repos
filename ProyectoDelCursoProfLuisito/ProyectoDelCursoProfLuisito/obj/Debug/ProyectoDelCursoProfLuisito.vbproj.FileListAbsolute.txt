@@ -1,0 +1,211 @@
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ApplicationInsights.config
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\csc.exe
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\vbc.exe
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\VBCSCompiler.exe
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.dll.config
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.pdb
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Antlr3.Runtime.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.SqlServer.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Web.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.ApplicationInsights.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Newtonsoft.Json.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Owin.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Helpers.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Mvc.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Optimization.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Razor.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Deployment.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Razor.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\WebGrease.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Web.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.ApplicationInsights.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Helpers.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Mvc.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Optimization.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Razor.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Deployment.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Razor.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Antlr3.Runtime.pdb
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Newtonsoft.Json.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.SqlServer.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Helpers.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Mvc.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Optimization.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Razor.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\EntityFramework.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.Resources.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.vbproj.GenerateResource.Cache
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.pdb
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.vbprojResolveAssemblyReference.cache
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ApplicationInsights.config
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\csc.exe
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\vbc.exe
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\VBCSCompiler.exe
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.dll.config
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.pdb
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\ProyectoDelCursoProfLuisito.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Antlr3.Runtime.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.SqlServer.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Web.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.ApplicationInsights.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Newtonsoft.Json.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Owin.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Helpers.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Mvc.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Optimization.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Razor.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Deployment.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Razor.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\WebGrease.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.Web.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.ApplicationInsights.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Newtonsoft.Json.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Helpers.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Mvc.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Optimization.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.Razor.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Deployment.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\System.Web.WebPages.Razor.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Antlr3.Runtime.pdb
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\EntityFramework.SqlServer.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Helpers.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Mvc.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Optimization.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.Razor.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\EntityFramework.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.Resources.resources
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.vbproj.GenerateResource.cache
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.vbproj.CoreCompileInputs.cache
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.dll
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.xml
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.pdb
+C:\Users\enr_f\source\repos\ProyectoDelCursoProfLuisito\ProyectoDelCursoProfLuisito\obj\Debug\ProyectoDelCursoProfLuisito.vbproj.AssemblyReference.cache

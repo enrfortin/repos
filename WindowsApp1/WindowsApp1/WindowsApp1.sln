@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp1", "WindowsApp1\WindowsApp1.vbproj", "{5E43A74A-3E14-470F-8D8A-91D97C4C7286}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorMyAppx64", "InstaladorMyAppx64\InstaladorMyAppx64.vdproj", "{92B964C9-6017-481C-AC9E-89DD822AE166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E43A74A-3E14-470F-8D8A-91D97C4C7286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E43A74A-3E14-470F-8D8A-91D97C4C7286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E43A74A-3E14-470F-8D8A-91D97C4C7286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E43A74A-3E14-470F-8D8A-91D97C4C7286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B964C9-6017-481C-AC9E-89DD822AE166}.Debug|Any CPU.ActiveCfg = Debug
+		{92B964C9-6017-481C-AC9E-89DD822AE166}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8C15FD-D830-4421-BE27-1B020AC8FD94}
+	EndGlobalSection
+EndGlobal

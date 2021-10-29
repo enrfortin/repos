@@ -1,0 +1,137 @@
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MySql.Data.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.licenses
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.registro.resources
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\enr_f\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\MySql.Data.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.registro.resources
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.licenses
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.registro.resources
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.licenses
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\enr_f\Documents\Visual Studio 2015\Projects\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
